@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: darkslategray;
+    color: gold;
+    height: 50px;
+    text-align: center;
+}
+nav{
+    background-color: teal;
+    color: white;
+    height: 50px;
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+
+}
+.left{
+    background-color: lightseagreen;
+    width: 60%;
+    height: 400px;
+    float: left;
+    overflow: hidden;
+    
+
+}
+.right{
+    background-color: mediumblue;
+    width: 40%;
+    height: 400px;
+    float: left;
+
+}
+.top{
+    background-color: mediumorchid;
+    color: black;
+    height: 200px;
+    text-align: center;
+    
+
+
+}
+.bottom{
+    background-color: darkcyan;
+    color: darkred;
+    height: 200px;
+    text-align: center;
+    
+
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+    
+
+}
